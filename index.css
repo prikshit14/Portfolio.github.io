@@ -14,7 +14,7 @@ body::-webkit-scrollbar {
 #body-header {
     height: 65vh;
     opacity: 0.8;
-    background-image: url(bkg.jpg);
+    background-image: url(/images/bkg.jpg);
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
@@ -628,4 +628,3 @@ button:focus {
     }
 
 }
-
